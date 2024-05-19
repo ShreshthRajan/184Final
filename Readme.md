@@ -1,3 +1,4 @@
+# Overview
 A proposal of MCTS and self-play for Gomoku.
 
 # About
